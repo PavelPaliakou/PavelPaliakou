@@ -44,8 +44,8 @@ Seeking a software developer position to grow my career as a professional.
 
 ### Education
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-0c0922?&style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-0c0922?&style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Linkedin](https://img.shields.io/badge/Linkedin_Learning-2861bd?style=for-the-badge&logo=linkedin&logoColor=white)
 
